@@ -15,6 +15,7 @@ class Song
     else
       puts "Genre already in the list"
     end
+    
   end
   
   def self.count
